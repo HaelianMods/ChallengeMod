@@ -1,5 +1,0 @@
-Load Priority 90
-Import challengemain.lua
-Import challengescripts.lua
-Import challengedata.lua
-Import challengeinterface.lua
